@@ -1,0 +1,15 @@
+{
+"name": "calculator",
+"version": "1.0.0",
+"description": "My first Node and Express ServerBMI calculator"
+"main": "sever.js",
+"scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "node server.js",
+}
+"author": "DIVYANSHU MITTAL",
+"License": "ISC",
+"dependencies": {
+  "express": "^4.17.1"
+}
+}
